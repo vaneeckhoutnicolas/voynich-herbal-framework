@@ -74,7 +74,7 @@ voynich-herbal-framework/
 
 ## 🚀 Comment contribuer / How to Contribute
 
-Voir [CONTRIBUTING.md](CONTRIBUTING.md)
+Voir [contributing.md](contributing.md)
 
 ## 📖 Citer ce travail / Citing This Work
 

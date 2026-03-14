@@ -1,0 +1,49 @@
+position,word_eva,prefix_family,template_phase,phase_number,subcategory,proposed_french,proposed_english,latin_candidate,confidence,notes
+1,kchor,k+ch-,identification,1,plant_name,cette plante,this plant,herba [name],medium,Page-unique first word. Likely plant name per Stolfi observation.
+2,shey,sh-,preparation,3,action,verser de l'eau,pour water,aquam infundere,medium,sh- preparation family. Water-related instruction.
+3,cthey,cth-,description,2,habitat,son terreau,its soil,terra / humus,medium,cth- earth/root family. Habitat description.
+4,dain,dai-,transition,3,temporal,au bon moment,at the right time,tempore opportuno,medium,Short form of dai- transitional family.
+5,chor,ch-,preparation,3,action,la plante-mère / mélanger,the mother plant / to mix,miscere / matrix,low,ch- family. Ambiguous: description or preparation.
+6,shol,sh-,description,2,habitat,au soleil,in sunlight,in sole,medium,sh- family. Sun/light exposure context.
+7,qokaiin,qok-,identification,1,plant_name,plante à racine,root plant,planta radicata,medium,qok- botanical family. Extended -aiin form.
+8,daiin,dai-,transition,3,marker,ensuite / de même,then / likewise,item,high,Primary transitional marker. ~866 total occurrences.
+9,oky,ok-,medical,4,usage,soigner,to treat/heal,curare / sanare,low,Short ok- medical form.
+10,okeol,ok-,medical,4,usage,utiliser en lotion,use as lotion,lotio / linimentum,medium,ok- medical family with -ol liquid suffix.
+11,otaiin,ot-,medical,4,usage,en préparation médicinale,as medicinal preparation,praeparatio medicinalis,medium,ot- medical family. Extended form.
+12,shol,sh-,description,2,habitat,au soleil,in sunlight,in sole,medium,Repeated. Sun exposure context.
+13,cheol,ch-,description,2,plant_part,sa sève huileuse,its oily sap,succus oleosus,medium,ch- description + -ol oil/liquid suffix.
+14,dain,dai-,transition,3,temporal,au bon moment,at the right time,tempore opportuno,medium,Repeated transitional marker.
+15,cthy,cth-,description,2,habitat,la terre,the earth,terra,medium,Short cth- earth reference.
+16,okeedy,ok-,medical,4,usage,le baume agit,the balm acts,balsamum operatur,medium,ok- medical family. -eedy extended form.
+17,otchedy,ot+ch-,medical,4,usage,traiter les rameaux du corps,treat the body's branches,curare ramos corporis,low,Compound ot+ch prefix. Medical application.
+18,qokain,qok-,identification,1,plant_name,la plante,the plant,planta / herba,medium,qok- botanical family. Simple form.
+19,cthor,cth-,description,2,plant_part,sa racine,its root,radix eius,medium,cth- earth/root family. Strong root association.
+20,daiin,dai-,transition,3,marker,ensuite,then,item,high,Repeated transitional marker.
+21,shol,sh-,description,2,habitat,au soleil,in sunlight,in sole,medium,Third occurrence. Sun context.
+22,okaiin,ok-,medical,4,usage,appliquer en onguent fort,apply as strong ointment,unguentum forte applicare,medium,ok- medical family. -aiin intensive form.
+23,qokeedy,qok-,identification,1,plant_name,l'herbe séchée,the dried herb,herba sicca,medium,qok- botanical family. -eedy dried/processed form.
+24,dal,d-,connector,3,link,de la,of the,de illa,medium,Frequent connector. ~236 total occurrences.
+25,chedy,ch-,description,2,plant_part,ses branches,its branches,rami eius,medium,ch- description family. ~495 total occurrences.
+26,qokedy,qok-,identification,1,plant_name,la jeune pousse,the young shoot,surculus / germen,medium,qok- botanical family. -edy variant.
+27,dain,dai-,transition,3,temporal,au bon moment,at the right time,tempore opportuno,medium,Repeated transitional marker.
+28,shedy,sh-,preparation,2,plant_part,ses feuilles,its leaves,folia eius,medium,sh- family. ~424 total occurrences. Leaf association.
+29,qokeedy,qok-,identification,1,plant_name,l'herbe séchée,the dried herb,herba sicca,medium,Repeated. qok- botanical family.
+30,chey,ch-,description,2,plant_part,sa sève,its sap,succus eius,medium,ch- description family. ~339 occurrences.
+31,daiin,dai-,transition,3,marker,ensuite,then,item,high,Repeated transitional marker.
+32,otaiin,ot-,medical,4,usage,en préparation médicinale,as medicinal preparation,praeparatio,medium,Repeated. ot- medical family.
+33,cheody,ch-,description,2,plant_part,sa sève épaisse,its thick sap,succus crassus,low,ch- family. -ody variant suggesting thickness.
+34,okeey,ok-,medical,4,usage,utiliser comme baume,use as balm,ut balsamum,medium,ok- medical family. Balm/salve application.
+35,dal,d-,connector,3,link,de la,of the,de illa,medium,Repeated connector.
+36,qokeey,qok-,identification,1,plant_name,la fleur d'eau,the water flower,flos aquaticus,low,qok- botanical family. -eey water/flower variant.
+37,sheol,sh-,preparation,3,action,ajouter de l'huile,add oil,oleum addere,medium,sh- preparation family + -ol oil suffix.
+38,daiin,dai-,transition,3,marker,ensuite,then,item,high,Repeated transitional marker.
+39,okeey,ok-,medical,4,usage,le baume agit,the balm acts,balsamum operatur,medium,Repeated. ok- medical family.
+40,shedy,sh-,preparation,2,plant_part,ses feuilles,its leaves,folia eius,medium,Repeated. sh- leaf association.
+41,qokeedy,qok-,identification,1,plant_name,l'herbe séchée,the dried herb,herba sicca,medium,Repeated. qok- botanical family.
+42,okeey,ok-,medical,4,usage,le baume agit,the balm acts,balsamum operatur,medium,Repeated. ok- medical family.
+43,chedy,ch-,description,2,plant_part,ses branches,its branches,rami eius,medium,Repeated. ch- description family.
+44,daiin,dai-,transition,3,marker,ensuite,then,item,high,Fifth occurrence. Transitional marker.
+45,otar,ot-,medical,4,conclusion,c'est un remède,it is a remedy,remedium est,medium,ot- medical family. Strong therapeutic conclusion marker. Position 45/48 = 94% through text.
+46,shol,sh-,description,2,habitat,au soleil,in sunlight,in sole,medium,Fourth occurrence. Sun context.
+47,qokain,qok-,identification,1,plant_name,la plante,the plant,planta / herba,medium,Repeated. qok- botanical closing reference.
+48,qokeedy,qok-,identification,1,plant_name,l'herbe séchée,the dried herb,herba sicca,medium,Final word. qok- botanical family. Closing plant reference.

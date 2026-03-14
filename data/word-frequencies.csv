@@ -1,0 +1,31 @@
+rank,word_eva,occurrences,percentage,prefix_family,proposed_category,proposed_french,proposed_english,confidence,notes
+1,daiin,866,2.28,dai-,transitional,ensuite / de même,then / likewise,medium,Analogous to Latin 'item'. Line-initial >20% of occurrences. Every ~19 words in Currier A vs ~50-60 in B.
+2,ol,528,1.39,o-,connector,ou / le,or / the,low,Very short function word. Possibly article or preposition.
+3,chedy,495,1.30,ch-,description,ses branches,its branches,medium,ch- family associated with plant parts and description.
+4,shedy,424,1.12,sh-,preparation,ses feuilles,its leaves,medium,sh- family associated with preparation and plant parts.
+5,chol,381,1.00,ch-,description,description,description,low,Frequent ch- word. Distributed across sections.
+6,chey,339,0.89,ch-,description,sa sève,its sap,medium,ch- family. Mid-paragraph position typical.
+7,qokeedy,301,0.79,qok-,botanical,herbe séchée,dried herb,medium,qok- family concentrated in botanical identification passages.
+8,qokain,277,0.73,qok-,botanical,la plante,the plant,medium,qok- family. Short form suggesting simple plant reference.
+9,qokaiin,262,0.69,qok-,botanical,plante à racine,root plant,medium,qok- family. Extended form with -aiin suffix.
+10,qokedy,265,0.70,qok-,botanical,jeune pousse,young shoot,medium,qok- family. -edy suffix variant.
+11,or,243,0.64,o-,connector,or,gold/or,low,Short function word. Possible preposition.
+12,ar,238,0.63,a-,connector,air / à,air / at,low,Short function word. Possible preposition or element.
+13,dal,236,0.62,d-,connector,de la,of the,medium,Frequent connector. Consistent with Latin 'de illa'.
+14,shol,175,0.46,sh-,preparation,au soleil / dissoudre,in sunlight / dissolve,medium,sh- family. May encode sun-related preparation.
+15,chor,206,0.54,ch-,preparation,mélanger,to mix,medium,ch- family. Possibly preparation verb.
+16,dar,198,0.52,d-,connector,donner,to give,low,d- family connector or instruction verb.
+17,otaiin,150,0.40,ot-,medical,préparation médicinale,medicinal preparation,medium,ot- family concentrated in end-of-paragraph positions.
+18,otar,145,0.38,ot-,medical,remède,remedy,medium,ot- family. Strong candidate for therapeutic conclusion marker.
+19,cthor,142,0.37,cth-,description,racine,root,medium,cth- family associated with earth/root descriptions.
+20,okeey,138,0.36,ok-,medical,baume,balm,medium,ok- family associated with medical applications.
+21,okaiin,134,0.35,ok-,medical,onguent fort,strong ointment,medium,ok- family. Extended form suggesting intensity.
+22,otedy,154,0.41,ot-,medical,traitement,treatment,medium,ot- family. Medical application context.
+23,shey,276,0.73,sh-,preparation,verser de l'eau,pour water,medium,sh- family. Likely preparation instruction.
+24,dol,168,0.44,d-,connector,douleur / broyer,pain / grind,low,Ambiguous. Could be ailment or preparation verb.
+25,ytaiin,89,0.23,y-,description,étoile / sous les étoiles,star / under the stars,low,Rare. Possibly astronomical or temporal reference.
+26,shy,67,0.18,sh-,description,aqueuse / eau,watery / water,medium,sh- family. Short form suggesting water/liquid.
+27,kaiin,78,0.21,k-,preparation,prendre,to take,medium,Possibly equivalent to Latin 'recipe/accipe'.
+28,cthey,52,0.14,cth-,description,terreau / terre-sève,soil / earth-sap,medium,cth- family. Earth/soil context.
+29,okeol,45,0.12,ok-,medical,lotion,lotion,low,ok- family. Medical preparation form.
+30,cheol,41,0.11,ch-,description,sève huileuse,oily sap,low,ch- family with -ol suffix suggesting oil/liquid.

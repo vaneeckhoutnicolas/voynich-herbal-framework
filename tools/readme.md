@@ -150,7 +150,7 @@ L'outil peut être étendu de plusieurs façons :
 - **Ajouter des transformations** : ajouter de nouvelles entrées dans la fonction `transform()` pour tester d'autres hypothèses mathématiques
 - **Nouvelles langues de synthèse** : modifier la fonction `speakText()` pour tester d'autres accents (espagnol, français, tchèque)
 
-Voir [CONTRIBUTING.md](../CONTRIBUTING.md) pour les guidelines générales.
+Voir [contributing.md](../contributing.md) pour les guidelines générales.
 
 ---
 
